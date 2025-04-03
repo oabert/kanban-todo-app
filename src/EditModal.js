@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Task = () => {
+const EditModal = () => {
     return (
         <div>
-            <Task/>
+            
         </div>
     );
 };
 
-export default Task;
+export default EditModal;
